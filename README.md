@@ -14,7 +14,7 @@ Users of your library will need add the jitpack.io repository:
 And:
 
 	dependencies {
-	    compile 'com.github.jitpack:android-example:1.0.1'
+	    compile 'com.github.congtung10t2:circularseekbarplus:1.0'
 	}
 
 # Note: do not add the jitpack.io repository under buildscript
