@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-'congtung10t2' with your Github username
 apply plugin: 'com.github.dcendents.android-maven'
 group='com.github.congtung10t2'
 
