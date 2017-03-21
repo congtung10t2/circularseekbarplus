@@ -1,20 +1,24 @@
 # circularseekbarplus
 Added a start point dynamic. Slider base on start and end point. And make it easier to install to your android app
-Installing
+# Installing
 Users of your library will need add the jitpack.io repository:
 
-allprojects {
- repositories {
-    jcenter()
-    maven { url "https://jitpack.io" }
- }
-}
-and:
+	allprojects {
+	 repositories {
+	    jcenter()
+	    maven {
+		url "https://jitpack.io" 
+	    }
+	 }
+	}
+And:
 
-dependencies {
-    compile 'com.github.jitpack:android-example:1.0.1'
-}
-Note: do not add the jitpack.io repository under buildscript
+	dependencies {
+	    compile 'com.github.jitpack:android-example:1.0.1'
+	}
+
+# Note: do not add the jitpack.io repository under buildscript
+==================Screenshot ================
 
 ![Screenshot 0](https://lh3.googleusercontent.com/-YDE1rNtxtaw/WM_pekaAPlI/AAAAAAAAAg0/AMvap3hcSYQ7VdOPJCDMZWNLe3rYvHYxwCJoC/w315-h308-p-rw/seekbarstartandend.png)
 ======
